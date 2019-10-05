@@ -1,0 +1,17 @@
+{
+    "files": {
+        "index.js": "e638374ae8b656dd4b3fc65f4fc6f65572869f0b860177bf2d26e657fcdaff44",
+		"module.json": "8f82e5017df3573a2da713be5b1d48a40270a841cac4fe00e4443e019d3ee15f",
+		"settings_migrator.js": "cfe40d55e561691b026d3bf599b3557334d78acd6c6063ef6a24b36f1375ae25"
+    },
+    "defs": {
+        "S_DEAD_LOCATION": 2,
+        "S_DESPAWN_DROPITEM": 4,
+        "S_LEAVE_PARTY": 1,
+        "S_LEAVE_PARTY_MEMBER": 2,
+        "S_PARTY_MEMBER_LIST": 7,
+        "S_PARTY_MEMBER_STAT_UPDATE": 3,
+        "S_SPAWN_DROPITEM": 8,
+        "S_SPAWN_USER": 15
+    }
+}
